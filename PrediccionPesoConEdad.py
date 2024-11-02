@@ -37,8 +37,8 @@ print(mse)
 print(rmse)
 
 #¿Funciona mejor el modelo? ¿Por qué cree que es así?
-# Se puede observar que el modelo de prediccion de peso mejora un poco, ya que el rmse es menor en comparacion ya que va de 10 a 16
-# al modelo anterior, considero que esto pasa en gran parte por agregar una nueva caracteristica que el modelo pueda juzgar
+# Se puede observar que el modelo de prediccion de peso mejora un poco, ya que el rmse es menor en comparacion al modelo anterior
+# ya que va de 10 a 16, considero que esto pasa en gran parte por agregar una nueva caracteristica que el modelo pueda juzgar
 # para mejorar aun mas su prediccion habria que agregar mas caracteristicas
 
 
